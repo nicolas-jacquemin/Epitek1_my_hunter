@@ -19,7 +19,7 @@ To complicate the game I have decided to set a random move of the customers inst
 * The game require all the [CSFML](https://github.com/SFML/CSFML) lib and the CSFML-dev kit (you can build from source or use the pre-built package provided by your linux distro)
 * Clone this repo and enter the directory
 
-  `git clone https://github.com/nicojqn/Epitek1_my_hunter.git; cd Epitek1_my_hunter`
+  `git clone https://github.com/nicojqn/Epitek1_my_hunter.git && cd Epitek1_my_hunter`
 * Build the game
 
   `make all`
