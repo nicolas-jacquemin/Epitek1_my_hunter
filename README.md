@@ -6,20 +6,18 @@ First year Epitech : B1 - Graphical module
 
 This was my first graphical C project with ~~the fantastic~~ CSFML (C graphical Lib)
 
-
 ### Subject
 
 We have to reproduce the "Duck-Hunt" game but with some customization.
 
 I have decided to do a "KFC game". The player have to hit the customer of the restaurant with a tender to feed them before they starve.
 
-To complexify the game I have decided to do a random move of the customers instead of the basic left-to-right game (that was difficult for me because of the collisions)
-
+To complicate the game I have decided to do a random move of the customers instead of the basic left-to-right game (that was difficult for me because of the collisions)
 
 ### Building
 
 * The game require all the [CSFML](https://github.com/SFML/CSFML) lib and the CSFML-dev kit (you can build from source or use the pre-built package provided by your linux distro)
-* Clone this repo and enter in the directory
+* Clone this repo and enter the directory
 
   `git clone https://github.com/nicojqn/Epitek1_my_hunter.git; cd Epitek1_my_hunter`
 * Build the game
@@ -31,8 +29,6 @@ To complexify the game I have decided to do a random move of the customers inste
 
 ### Game Screenshots
 
-
 ![1671492416052](image/README/1671492416052.png "my_hunter menu")
-
 
 ![1671492451901](image/README/1671492451901.png "my_hunter playing the game")
