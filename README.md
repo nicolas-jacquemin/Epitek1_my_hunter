@@ -8,11 +8,11 @@ This was my first graphical C project with ~~the fantastic~~ CSFML (C graphical 
 
 ### Subject
 
-We have to reproduce the "Duck-Hunt" game but with some customization.
+We had to reproduce the "Duck-Hunt" game but with some customization.
 
 I have decided to do a "KFC game". The player have to hit the customer of the restaurant with a tender to feed them before they starve.
 
-To complicate the game I have decided to do a random move of the customers instead of the basic left-to-right game (that was difficult for me because of the collisions)
+To complicate the game I have decided to set a random move of the customers instead of the basic left-to-right move (that was difficult for me because of the collisions)
 
 ### Building
 
