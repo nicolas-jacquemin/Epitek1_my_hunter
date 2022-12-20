@@ -27,6 +27,10 @@ To complicate the game I have decided to set a random move of the customers inst
 
   `./my_hunter`
 
+### Use the Release
+
+If you have trouble with CSFML install or to build this game you can use the binary in the release (for linux x_64 only)
+
 ### Game Screenshots
 
 ![1671492416052](image/README/1671492416052.png "my_hunter menu")
